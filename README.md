@@ -1,4 +1,4 @@
-# TrelloAuth
+# Entrega final Escenario 7 - Sustentacion Escenario 8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
